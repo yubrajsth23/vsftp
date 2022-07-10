@@ -1,2 +1,2 @@
 # vsftp
-Configuration file of vsftp
+Configuration file of vsftp in centos
